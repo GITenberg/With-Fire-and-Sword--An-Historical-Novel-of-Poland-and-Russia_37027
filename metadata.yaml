@@ -1,0 +1,38 @@
+_repo: With-Fire-and-Sword--An-Historical-Novel-of-Poland-and-Russia_37027
+_version: 0.1.0
+alternative_title: Ogniem i mieczem. English
+contributor:
+  translator:
+    agent_name: Curtin, Jeremiah
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '1053'
+    url: http://www.gutenberg.org/2009/agents/1053
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: ''
+gutenberg_issued: '2011-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cossacks -- Ukraine -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Poland -- History -- John II Casimir, 1648-1668 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Cossacks -- Poland -- Fiction'
+title: 'With Fire and Sword: An Historical Novel of Poland and Russia'
+url: http://www.gutenberg.org/ebooks/37027
